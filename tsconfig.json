@@ -1,0 +1,10 @@
+{
+  "extends": "@mib/tsconfig",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@mib/*": ["packages/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist", "build", ".next"]
+}

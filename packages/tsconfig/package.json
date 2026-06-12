@@ -1,0 +1,7 @@
+{
+  "name": "@mib/tsconfig",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./tsconfig.json",
+  "files": ["tsconfig.json"]
+}
